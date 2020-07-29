@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+./.idea
+git_test.iml
+.gitignore
+.idea/.gitignore
+.idea/.name
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/misc.xml
+.idea/vcs.xml
+src/main/resources/
+src/test/
+target/
